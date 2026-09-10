@@ -1,3 +1,5 @@
+<!-- Keywords: Abdulrahman Al Alawi, TPP System, Temporal Orthogonal Patterns, Quantum Entanglement, Physics 2026 -->
+
 # Scientific Revolution in Physics: Saudi Researcher Abdulrahman Al Alawi Unveils the Four Temporal Patterns That Redefine Time, Open the Door to Fifth-Dimensional Spacetime Technologies, and Provide the First Deterministic Explanation of Quantum Entanglement from Galaxies to the Atomic Level – Forging a Missing Bridge of a Century Between Relativity and Quantum Mechanics
 
 ## The Decisive Geometric Statement of the TPP System <br> (Theory of Temporal Orthogonal Patterns)
