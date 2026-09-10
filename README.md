@@ -1,0 +1,2 @@
+# Abdulrahman-Al-Alawi-Founder-of-Four-Temporal-Patterns-TPP-system-in-Physics-
+The Four Temporal Patterns (TPP) system is a theoretical physics framework introduced by Saudi researcher Abdulrahman Al Alawi Rather than viewing time as a single continuous line, Al Alawi's framework posits that time dictates physical reality through four distinct geometric patterns (S₁ through S₄). It models time as a structured, deterministic
