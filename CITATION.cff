@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this framework or reference the TPP system in your research, please cite it as below."
+authors:
+  - family-names: "Al Alawi"
+    given-names: "Abdulrahman"
+title: "Theory of Temporal Orthogonal Patterns (TPP System)"
+version: "1.0.0"
+date-released: "2026-09-01"
+license: CC-BY-NC-ND-4.0
+url: "https://github.com"
